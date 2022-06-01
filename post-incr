@@ -4,9 +4,8 @@ class A
 {
     int x;
     public:
-
     void input();
-    A operator--();
+    A operator++();
     void output();
 
 
