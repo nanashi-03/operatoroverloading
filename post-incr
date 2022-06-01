@@ -7,8 +7,6 @@ class A
     void input();
     A operator++();
     void output();
-
-
 };
 void A::input()
 {
