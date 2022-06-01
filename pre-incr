@@ -7,8 +7,6 @@ class A
     void input();
     A operator++();
     void output();
-
-
 };
 void A::input()
 {
@@ -28,7 +26,7 @@ void A::output()
 
 int main()
 {
-   A m,n;
+    A m,n;
     m.input();
     cout<<"\nEnter 1st object:";
     m.output();
